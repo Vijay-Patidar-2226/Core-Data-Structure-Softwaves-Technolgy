@@ -31,9 +31,6 @@ if(x[i][j])
 {
 return false;
 }
-
-
-
 }
 
 
@@ -102,4 +99,5 @@ void main()
 int x[4][4]={0};
 display(x);
 show(x,0);
+
 }
